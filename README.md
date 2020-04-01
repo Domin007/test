@@ -1,1 +1,3 @@
-# Mój test. 
+# test
+
+To jest moje pierwsze repozytorium!
